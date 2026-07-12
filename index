@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaiieyes | Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+        Aaiieyes.
+    </div>
+
+    <nav>
+
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#resume">Resume</a>
+        <a href="#contact">Contact</a>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <div class="hero-text">
+
+        <h1>
+            Financial & Administrative Specialist
+        </h1>
+
+        <p>
+
+            Supporting Accounts Payable,
+            Financial Reporting,
+            Dashboard Development,
+            and Business Operations.
+
+        </p>
+
+        <div class="buttons">
+
+            <a href="#" class="btn">
+                Download Resume
+            </a>
+
+            <a href="#projects" class="btn-outline">
+                View Portfolio
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="about">
+
+    <h2>About Me</h2>
+
+    <p>
+
+        Experienced in Accounts Payable,
+        Expense Tracking,
+        Financial Reporting,
+        Dashboard Development,
+        and Administrative Support.
+
+    </p>
+
+</section>
+
+<section id="projects">
+
+<h2>Featured Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Expense Dashboard</h3>
+
+<p>
+Monthly expense monitoring using Google Sheets.
+</p>
+
+<a href="#">
+View Project →
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>AP Payment Tracker</h3>
+
+<p>
+
+Weekly supplier payment planning.
+
+</p>
+
+<a href="#">
+
+View Project →
+
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>Financial Summary</h3>
+
+<p>
+
+Monthly financial reporting dashboard.
+
+</p>
+
+<a href="#">
+
+View Project →
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="resume">
+
+<h2>Resume</h2>
+
+<p>
+
+Latest PDF Resume
+
+</p>
+
+<a href="#" class="btn">
+
+Download Resume
+
+</a>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>
+
+Email
+
+</p>
+
+<p>
+
+LinkedIn
+
+</p>
+
+<p>
+
+GitHub
+
+</p>
+
+</section>
+
+<footer>
+
+© 2026 Aaiieyes
+
+</footer>
+
+</body>
+</html>
